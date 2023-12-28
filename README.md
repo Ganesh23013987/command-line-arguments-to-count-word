@@ -10,7 +10,7 @@ Import the sys module.
 ### Step 2: 
 Pass the filename as the first argument after the name of script. Open the file as file1.txt
 ### Step 3: 
-Read the file using read() method
+Read the file using read() method (or) 'r'
 ### Step 4:  
 Use split() method to split the file content into words.
 ### Step 5: 
