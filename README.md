@@ -26,7 +26,7 @@ RegisterNumber:23013987
 '''
 import sys
 count=0
-with open(sys.argv[1],'r) as f:
+with open(sys.argv[1],'r') as f:
     for line in f:
     word=line.split()
     count+=line.(word)
