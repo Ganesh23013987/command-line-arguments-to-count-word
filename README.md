@@ -26,7 +26,7 @@ RegisterNumber:23013987
 '''
 import sys
 count=0
-with open('C:/Users/BSS/Documents/file1.txt','r')as f:
+with open('C:/Users/BSS/Documents/file1.txt','r') as f:
           for line in f:
             word=line.split()
             count+=len(word)
