@@ -26,15 +26,15 @@ RegisterNumber:23013987
 '''
 import sys
 count=0
-with open(sys.argv[1],'r) as f:
-    for line in f:
-    word=line.split()
-    count+=line.(word)
+with open('C:/Users/BSS/Documents/file1.txt','r')as f:
+          for line in f:
+            word=line.split()
+            count+=len(word)
 print("Word Count in File=",count)
 ```
 ### OUTPUT:
 
-![Alt text](<cmt line word count.png>)
+![Alt text](<cmd line arg output.png>)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
