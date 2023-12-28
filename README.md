@@ -33,7 +33,8 @@ with open('C:/Users/BSS/Documents/file1.txt','r') as f:
 print("Word Count in File=",count)
 ```
 ### file1.txt:
-![Uploading cmd line arg  in file.png…]()
+<img width="308" alt="cmd line arg  in file" src="https://github.com/Ganesh23013987/command-line-arguments-to-count-word/assets/147473768/50112921-1d80-443f-adfb-4f2cddac8eac">
+
 
 ### OUTPUT:
 
