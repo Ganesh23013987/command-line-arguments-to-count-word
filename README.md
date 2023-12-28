@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 ### Step 1:
 Import the sys module.
 ### Step 2: 
-Pass the filename as the first argument after the name of script. Open the file as sys.argv[1]
+Pass the filename as the first argument after the name of script. Open the file as file1.txt
 ### Step 3: 
 Read the file using read() method
 ### Step 4:  
@@ -32,6 +32,9 @@ with open('C:/Users/BSS/Documents/file1.txt','r') as f:
             count+=len(word)
 print("Word Count in File=",count)
 ```
+### file1.txt:
+![Uploading cmd line arg  in file.png…]()
+
 ### OUTPUT:
 
 ![Alt text](<cmd line arg output.png>)
